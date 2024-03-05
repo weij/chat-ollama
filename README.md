@@ -6,6 +6,16 @@ Feature list:
 - Models management (list, download, delete)
 - Chat with models
 
+## things I need to install
+
+```bash
+npm install -g typescript
+brew install oven-sh/bun/bun
+npm install nuxt
+npm install prisma
+npm install -D tailwindcss
+```
+
 ## Setup
 
 Make sure to install the dependencies:
